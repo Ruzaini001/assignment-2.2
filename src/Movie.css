@@ -1,0 +1,11 @@
+.Movie {
+    background-color: #d2a077;
+    padding: 0.008px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+  }
+
+  .Movie h4 {
+    font-size: 25px;
+  }
